@@ -21,5 +21,18 @@ The application processes raw start and finish time data to calculate the exact 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/monaco-2018-report.git](https://github.com/your-username/monaco-2018-report.git)
+git clone git@github.com:n0secutiry/web_report_of_monaco.git
    cd monaco-2018-report
+```
+
+2. Create venv and download requirements
+```bash
+python -m venv venv
+venv/scripts/activate
+pip intall -r requirements.txt
+```
+
+3. Run server
+```bash
+python run.py
+```

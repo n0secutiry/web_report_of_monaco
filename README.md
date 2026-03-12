@@ -20,9 +20,9 @@ The application processes raw start and finish time data to calculate the exact 
 ## Installation & Setup
 
 1. Clone the repository:
-   ```bash
-git clone git@github.com:n0secutiry/web_report_of_monaco.git
-   cd monaco-2018-report
+```bash
+git clone https://github.com/n0secutiry/web_report_of_monaco.git
+cd monaco-2018-report
 ```
 
 2. Create venv and download requirements
